@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>monad.LocationLight</string>
+				<string>com.jackie.cameraOfficial</string>
 				<key>bundle-version</key>
-				<string>1.0.20</string>
+				<string>1.0.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
